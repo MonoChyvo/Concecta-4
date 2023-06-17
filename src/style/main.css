@@ -96,6 +96,7 @@ body {
   color: #fff;
   border: 3px solid cadetblue;
   border-radius: 50%;
+  padding: 2px;
 }
 
 .winner {
@@ -135,10 +136,10 @@ body {
   width: 80px;
   height: 80px;
   border: 5px solid #eee;
-  border-radius: 15px;
+  border-radius: 25px;
   display: grid;
   place-items: center;
   cursor: pointer;
-  font-size: 62px;
+  font-size: 50px;
   text-shadow: 2px 2px 4px rgb(0, 0, 0);
 }
